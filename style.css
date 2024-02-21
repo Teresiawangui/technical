@@ -1,0 +1,32 @@
+#form{
+    border: solid 5px;
+    border-style: double;
+    border-color: rgb(228, 23, 23);
+    width: 470px;
+    height: 470px;
+    margin:0 auto;
+    padding: 12px;
+}
+.input{
+    padding: 8px 12px;
+    border-radius: 5px;
+    border:1px solid;
+}
+button{
+    padding: 6px 12px;
+    background-color: darkcyan;
+    border-radius: 5px;
+    color: beige;
+    
+    
+}
+
+table, th, td, tr{
+width: 50%;
+height: 70px;
+border: 2px solid;
+border-color: rgb(41, 224, 224);
+text-align: center;
+margin: 0 auto;
+
+}
